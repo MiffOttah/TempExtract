@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempExtract", "TempExtract.csproj", "{BFAAA8DA-2513-4E9F-9AEC-75C947B8FE3D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{08D1BECD-0A35-4D16-BAED-C13020B9D9A7}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.md = LICENSE.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFAAA8DA-2513-4E9F-9AEC-75C947B8FE3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAAA8DA-2513-4E9F-9AEC-75C947B8FE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAAA8DA-2513-4E9F-9AEC-75C947B8FE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAAA8DA-2513-4E9F-9AEC-75C947B8FE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88312C25-1D31-474B-9A6B-AA1B113A9839}
+	EndGlobalSection
+EndGlobal

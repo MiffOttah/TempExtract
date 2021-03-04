@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TempExtract": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Temp\\testzip.zip\""
+    }
+  }
+}
